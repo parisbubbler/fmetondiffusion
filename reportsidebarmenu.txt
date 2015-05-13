@@ -1,6 +1,6 @@
 Best Sellers|#2("object" ; "TabReport2")
 Top 10 Clients|#2("object" ; "TabReport3")
-Some Other Report2|#2("object" ; "TabReport4")
+Montly Revenue Analysis|#2("object" ; "TabReport4")
 Some Other Report3|#2("object" ; "TabReport5")
 Some Other Report4|#2("object" ; "TabReport6")
 Some Other Report5|#2("object" ; "TabReport7")
